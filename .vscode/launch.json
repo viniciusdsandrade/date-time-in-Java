@@ -1,0 +1,171 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "TesteDataAvanceRetroceda",
+      "request": "launch",
+      "mainClass": "Testes.TesteData.TesteDataAvanceRetroceda",
+      "projectName": "Data_24370ece"
+    },
+    {
+      "type": "java",
+      "name": "TesteDataConstrutorDeCopia",
+      "request": "launch",
+      "mainClass": "Testes.TesteData.TesteDataConstrutorDeCopia",
+      "projectName": "Data_24370ece"
+    },
+    {
+      "type": "java",
+      "name": "TesteHorarioAvanceRetrocedaVoid",
+      "request": "launch",
+      "mainClass": "Testes.TesteHorario.TesteHorarioAvanceRetrocedaVoid",
+      "projectName": "Data_dc8afd9b"
+    },
+    {
+      "type": "java",
+      "name": "TesteHorarioAvanceRetrocedaVoid",
+      "request": "launch",
+      "mainClass": "Testes.TesteHorario.TesteHorarioAvanceRetrocedaVoid",
+      "projectName": "Data_d68209cf"
+    },
+    {
+      "type": "java",
+      "name": "TesteHorarioCompareTo",
+      "request": "launch",
+      "mainClass": "Testes.TesteHorario.TesteHorarioCompareTo",
+      "projectName": "Data_d68209cf"
+    },
+    {
+      "type": "java",
+      "name": "TesteDataHashCode",
+      "request": "launch",
+      "mainClass": "Testes.TesteData.TesteDataHashCode",
+      "projectName": "Data_dc8afd9b"
+    },
+    {
+      "type": "java",
+      "name": "TesteHorarioEquals",
+      "request": "launch",
+      "mainClass": "Testes.TesteHorario.TesteHorarioEquals",
+      "projectName": "Data_dc8afd9b"
+    },
+    {
+      "type": "java",
+      "name": "TesteDataClone",
+      "request": "launch",
+      "mainClass": "Testes.TesteData.TesteDataClone",
+      "projectName": "Data_dc8afd9b"
+    },
+    {
+      "type": "java",
+      "name": "TesteHorarioCompareTo",
+      "request": "launch",
+      "mainClass": "Testes.TesteHorario.TesteHorarioCompareTo",
+      "projectName": "Data_dc8afd9b"
+    },
+    {
+      "type": "java",
+      "name": "TesteHorarioConstrutorDeCopia",
+      "request": "launch",
+      "mainClass": "Testes.TesteHorario.TesteHorarioConstrutorDeCopia",
+      "projectName": "Data_dc8afd9b"
+    },
+    {
+      "type": "java",
+      "name": "TesteHorarioClone",
+      "request": "launch",
+      "mainClass": "Testes.TesteHorario.TesteHorarioClone",
+      "projectName": "Data_dc8afd9b"
+    },
+    {
+      "type": "java",
+      "name": "TesteTeclado",
+      "request": "launch",
+      "mainClass": "Testes.TesteTeclado.TesteTeclado",
+      "projectName": "Data_dc8afd9b"
+    },
+    {
+      "type": "java",
+      "name": "TesteHorarioTeclado",
+      "request": "launch",
+      "mainClass": "Testes.TesteHorario.TesteHorarioTeclado",
+      "projectName": "Data_dc8afd9b"
+    },
+    {
+      "type": "java",
+      "name": "TesteHorarioHashCode",
+      "request": "launch",
+      "mainClass": "Testes.TesteHorario.TesteHorarioHashCode",
+      "projectName": "Data_dc8afd9b"
+    },
+    {
+      "type": "java",
+      "name": "TesteHorario",
+      "request": "launch",
+      "mainClass": "Testes.TesteHorario.TesteHorario",
+      "projectName": "Data_dc8afd9b"
+    },
+    {
+      "type": "java",
+      "name": "TesteHorarioAvanceRetroceda",
+      "request": "launch",
+      "mainClass": "Testes.TesteHorario.TesteHorarioAvanceRetroceda",
+      "projectName": "Data_dc8afd9b"
+    },
+    {
+      "type": "java",
+      "name": "TesteHorarioAvanceRetroceda",
+      "request": "launch",
+      "mainClass": "Testes.TesteHorarioAvanceRetroceda",
+      "projectName": "Data_dc8afd9b"
+    },
+    {
+      "type": "java",
+      "name": "TesteDataMetodosObrigatorios",
+      "request": "launch",
+      "mainClass": "Testes.TesteDataMetodosObrigatorios",
+      "projectName": "Data_dc8afd9b"
+    },
+    {
+      "type": "java",
+      "name": "TesteHorario",
+      "request": "launch",
+      "mainClass": "Testes.TesteHorario",
+      "projectName": "Data_dc8afd9b"
+    },
+    {
+      "type": "java",
+      "name": "TesteEquals",
+      "request": "launch",
+      "mainClass": "Testes.TesteEquals",
+      "projectName": "Data_d68209cf"
+    },
+    {
+      "type": "java",
+      "name": "TesteDataAvanceRetroceda",
+      "request": "launch",
+      "mainClass": "Testes.TesteDataAvanceRetroceda",
+      "projectName": "Data_2c3eb66b"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Systems Development_COTUCA/3sem/DS201 - Reof TP2/Data/Data",
+      "program": "d:/Systems Development_COTUCA/3sem/DS201 - Reof TP2/Data/Data/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
